@@ -1,0 +1,46 @@
+П14 — команди для macOS (Zsh)
+Виконуйте з каталогу lab32.
+
+ЗАВДАННЯ 1
+python3 -m venv .venv
+source .venv/bin/activate
+which python
+python -c "import sys; print(sys.prefix)"
+pip list
+deactivate
+which python
+
+ЗАВДАННЯ 3
+source .venv/bin/activate
+python -m pip install --upgrade pip
+python -m pip install "qrcode[pil]"
+python task3.py
+# Відскануйте contact.png телефоном.
+
+ЗАВДАННЯ 4 — адаптоване без task2.py
+python -m pip freeze > requirements.txt
+mkdir -p lab32_copy
+cp task3.py requirements.txt lab32_copy/
+cd lab32_copy
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+python task3.py
+python -m pip show qrcode
+python -m pip freeze
+deactivate
+cd ..
+
+ЗАВДАННЯ 5
+source .venv/bin/activate
+python -m pip install "qrcode==7.4.2"
+python -m pip show qrcode
+python -m pip install --upgrade qrcode
+python -m pip show qrcode
+python -m pip uninstall qrcode
+python task3.py
+# Очікується ModuleNotFoundError: No module named 'qrcode'
+deactivate
+
+ВАЖЛИВО: після завдання 5 не перезаписуйте requirements.txt.
+Він має зберігати залежності, зафіксовані до видалення qrcode.
