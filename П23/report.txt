@@ -1,0 +1,9 @@
+date        category            amount  comment
+----------------------------------------------------
+2026-10-01  food                250.00  lunch and groceries
+2026-10-03  transport           120.50  bus pass
+2026-10-07  books               310.00  python textbook
+2026-10-12  entertainment       200.00  cinema
+2026-10-15  food                367.50  groceries
+----------------------------------------------------
+total                          1248.00
