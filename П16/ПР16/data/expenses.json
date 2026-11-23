@@ -1,0 +1,104 @@
+[
+  {
+    "date": "2026-11-01",
+    "category": "food",
+    "amount": 185.5,
+    "comment": "Groceries"
+  },
+  {
+    "date": "2026-11-02",
+    "category": "transport",
+    "amount": 40.0,
+    "comment": "Public transport"
+  },
+  {
+    "date": "2026-11-03",
+    "category": "fun",
+    "amount": 250.0,
+    "comment": "Cinema"
+  },
+  {
+    "date": "2026-11-04",
+    "category": "food",
+    "amount": 320.75,
+    "comment": "Lunch and groceries"
+  },
+  {
+    "date": "2026-11-05",
+    "category": "transport",
+    "amount": 25.0,
+    "comment": "Bus"
+  },
+  {
+    "date": "2026-11-06",
+    "category": "food",
+    "amount": 145.0,
+    "comment": "Lunch"
+  },
+  {
+    "date": "2026-11-07",
+    "category": "fun",
+    "amount": 180.0,
+    "comment": "Games"
+  },
+  {
+    "date": "2026-11-08",
+    "category": "food",
+    "amount": 410.2,
+    "comment": "Groceries"
+  },
+  {
+    "date": "2026-11-09",
+    "category": "transport",
+    "amount": 50.0,
+    "comment": "Taxi"
+  },
+  {
+    "date": "2026-11-10",
+    "category": "food",
+    "amount": 275.0,
+    "comment": "Dinner"
+  },
+  {
+    "date": "2026-11-11",
+    "category": "fun",
+    "amount": 120.0,
+    "comment": "Entertainment"
+  },
+  {
+    "date": "2026-11-12",
+    "category": "food",
+    "amount": 360.0,
+    "comment": "Groceries"
+  },
+  {
+    "date": "2026-11-13",
+    "category": "transport",
+    "amount": 35.0,
+    "comment": "Bus"
+  },
+  {
+    "date": "2026-11-14",
+    "category": "food",
+    "amount": 210.0,
+    "comment": "Lunch"
+  },
+  {
+    "date": "2026-11-15",
+    "category": "fun",
+    "amount": 90.0,
+    "comment": "Subscription"
+  },
+  {
+    "date": "2026-11-16",
+    "category": "food",
+    "amount": 500.0,
+    "comment": "Groceries"
+  },
+  {
+    "date": "2026-11-17",
+    "category": "transport",
+    "amount": 45.0,
+    "comment": "Public transport"
+  }
+]
