@@ -1,0 +1,7 @@
+[
+  {"date": "2026-10-01", "category": "food", "amount": 250.00, "comment": "lunch and groceries"},
+  {"date": "2026-10-03", "category": "transport", "amount": 120.50, "comment": "bus pass"},
+  {"date": "2026-10-07", "category": "books", "amount": 310.00, "comment": "python textbook"},
+  {"date": "2026-10-12", "category": "entertainment", "amount": 200.00, "comment": "cinema"},
+  {"date": "2026-10-15", "category": "food", "amount": 367.50, "comment": "groceries"}
+]
